@@ -1,0 +1,12 @@
+/NotFinished
+
+# We only want to pdf writeups, not word documents
+*.docx
+
+# Active Boxes, must wait to post until they are retired
+/postman
+/traverxec
+/wall
+
+
+# Retired Boxes
